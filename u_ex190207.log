@@ -1,0 +1,307 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 10:58:08
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 10:58:07 W3SVC488 216.104.37.2 GET / - 80 - 85.202.163.127 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.115+Safari/537.36 - 200 0 0 26286 403 437
+2019-02-07 10:58:09 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 85.202.163.127 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.115+Safari/537.36 http://paraminfotech.com/ 200 0 0 636 620 1718
+2019-02-07 11:00:30 W3SVC488 216.104.37.2 GET /index.html - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) - 200 0 0 26286 237 62
+2019-02-07 11:00:31 W3SVC488 216.104.37.2 GET /css/css.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/index.html 200 0 0 18840 309 78
+2019-02-07 11:00:31 W3SVC488 216.104.37.2 GET /css/menu.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/index.html 200 0 0 3907 310 78
+2019-02-07 11:00:31 W3SVC488 216.104.37.2 GET /css/nivo-slider.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/index.html 200 0 0 1794 317 62
+2019-02-07 11:00:31 W3SVC488 216.104.37.2 GET /css/banner.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/index.html 200 0 0 1574 312 62
+2019-02-07 11:00:32 W3SVC488 216.104.37.2 GET /js/jquery.nivo.slider.pack.js - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/index.html 200 0 0 16140 327 109
+2019-02-07 11:00:32 W3SVC488 216.104.37.2 GET /js/jquery-1.4.3.min.js - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/index.html 200 0 0 78009 320 328
+2019-02-07 11:03:19 W3SVC488 216.104.37.2 GET / - 80 - 179.61.158.141 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - 200 0 0 26286 238 265
+2019-02-07 11:05:21 W3SVC488 216.104.37.2 GET /robots.txt - 80 - 66.249.69.93 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 0 2 1406 235 12
+2019-02-07 11:05:21 W3SVC488 216.104.37.2 GET / - 80 - 66.249.69.91 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 26286 424 24
+2019-02-07 11:05:29 W3SVC488 216.104.37.2 GET /js/jquery.nivo.slider.pack.js - 80 - 66.249.69.93 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.paraminfotech.com/ 200 0 0 16140 457 36
+2019-02-07 11:05:46 W3SVC488 216.104.37.2 GET /favicon.ico - 80 - 66.249.69.91 Googlebot-Image/1.0 - 404 0 2 1406 196 8
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 11:22:12
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 11:22:12 W3SVC488 216.104.37.2 GET / - 80 - 195.123.228.252 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36+Edge/16.16299 http://porndumpster.animaporn.bloglag.com 200 0 0 26305 341 390
+2019-02-07 11:22:15 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 195.123.228.252 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36+Edge/16.16299 http://paraminfotech.com/ 200 0 0 655 742 2468
+2019-02-07 11:25:33 W3SVC488 216.104.37.2 GET /robots.txt - 80 - 46.229.168.139 Mozilla/5.0+(compatible;+SemrushBot/3~bl;++http://www.semrush.com/bot.html) - 404 0 2 1425 205 31
+2019-02-07 11:25:33 W3SVC488 216.104.37.2 GET /contactus.html - 80 - 46.229.168.138 Mozilla/5.0+(compatible;+SemrushBot/3~bl;++http://www.semrush.com/bot.html) - 200 0 0 11235 215 109
+2019-02-07 11:39:46 W3SVC488 216.104.37.2 GET / - 80 - 46.165.230.5 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.106+Safari/537.36 - 200 0 0 26286 397 296
+2019-02-07 11:39:48 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 46.165.230.5 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.106+Safari/537.36 http://paraminfotech.com/ 200 0 0 636 622 1265
+2019-02-07 11:49:54 W3SVC488 216.104.37.2 GET /css/menu.css - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 3907 343 250
+2019-02-07 11:49:54 W3SVC488 216.104.37.2 GET / - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 https://www.google.com/ 200 0 0 26286 422 640
+2019-02-07 11:49:54 W3SVC488 216.104.37.2 GET /css/css.css - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 18840 342 484
+2019-02-07 11:49:54 W3SVC488 216.104.37.2 GET /css/nivo-slider.css - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 1794 350 265
+2019-02-07 11:49:54 W3SVC488 216.104.37.2 GET /css/banner.css - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 1574 345 296
+2019-02-07 11:49:55 W3SVC488 216.104.37.2 GET /js/jquery.nivo.slider.pack.js - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 16140 345 312
+2019-02-07 11:49:55 W3SVC488 216.104.37.2 GET /js/jquery-1.4.3.min.js - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 78009 338 828
+2019-02-07 11:49:55 W3SVC488 216.104.37.2 GET /images/logo.png - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 3976 367 265
+2019-02-07 11:49:55 W3SVC488 216.104.37.2 GET /images/line_navigation.png - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 404 378 218
+2019-02-07 11:49:55 W3SVC488 216.104.37.2 GET /images/ban_int.jpg - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 34418 370 296
+2019-02-07 11:49:55 W3SVC488 216.104.37.2 GET /images/bg_top.jpg - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 1241 380 265
+2019-02-07 11:49:55 W3SVC488 216.104.37.2 GET /images/bg_mid_content.jpg - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 663 388 250
+2019-02-07 11:49:55 W3SVC488 216.104.37.2 GET /images/ban_hot.jpg - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 47951 370 546
+2019-02-07 11:49:56 W3SVC488 216.104.37.2 GET /images/box_top.jpg - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 3775 381 281
+2019-02-07 11:49:56 W3SVC488 216.104.37.2 GET /images/quick_contact.jpg - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 4923 387 312
+2019-02-07 11:49:56 W3SVC488 216.104.37.2 GET /images/box_bot.jpg - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 1262 381 390
+2019-02-07 11:49:56 W3SVC488 216.104.37.2 GET /images/rea_mor.jpg - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 2721 370 343
+2019-02-07 11:49:56 W3SVC488 216.104.37.2 GET /images/icon_twitter.png - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 2233 608 265
+2019-02-07 11:49:56 W3SVC488 216.104.37.2 GET /images/icon_facebook.png - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 3469 609 500
+2019-02-07 11:49:56 W3SVC488 216.104.37.2 GET /images/bottom_contact.jpg - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 1363 621 437
+2019-02-07 11:49:56 W3SVC488 216.104.37.2 GET /images/bg_fotter.jpg - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 609 616 421
+2019-02-07 11:49:57 W3SVC488 216.104.37.2 GET /images/ban_res.jpg - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 54929 370 796
+2019-02-07 11:49:57 W3SVC488 216.104.37.2 GET /images/ban_can.jpg - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 78956 370 781
+2019-02-07 11:49:57 W3SVC488 216.104.37.2 GET /css/images/arrows.png - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/css/banner.css 404 0 2 1406 620 421
+2019-02-07 11:49:57 W3SVC488 216.104.37.2 GET /favicon.ico - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 404 0 2 1406 596 421
+2019-02-07 11:49:57 W3SVC488 216.104.37.2 GET /images/bullets.png - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/css/banner.css 200 0 0 1051 617 531
+2019-02-07 11:50:04 W3SVC488 216.104.37.2 GET /restaurantsw.html - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 14831 678 468
+2019-02-07 11:50:05 W3SVC488 216.104.37.2 GET /images/icon_products.png - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/restaurantsw.html 200 0 0 2685 626 343
+2019-02-07 11:50:05 W3SVC488 216.104.37.2 GET /images/bg_header_innner.png - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 1786 623 312
+2019-02-07 11:50:05 W3SVC488 216.104.37.2 GET /images/bg_text_mid.jpg - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 576 618 421
+2019-02-07 11:50:05 W3SVC488 216.104.37.2 GET /images/bg_mid_content_inner_bottom.jpg - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 772 634 484
+2019-02-07 11:50:05 W3SVC488 216.104.37.2 GET /images/bg_mid_content_inner_top.jpg - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 761 631 484
+2019-02-07 11:50:05 W3SVC488 216.104.37.2 GET /css/images/arrows.png - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/css/banner.css 404 0 2 1406 620 421
+2019-02-07 11:50:14 W3SVC488 216.104.37.2 GET /contactus.html - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/restaurantsw.html 200 0 0 11216 692 453
+2019-02-07 11:50:15 W3SVC488 216.104.37.2 GET /images/icon_contact.png - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/contactus.html 200 0 0 1960 622 500
+2019-02-07 11:50:15 W3SVC488 216.104.37.2 GET /css/images/arrows.png - 80 - 43.241.145.96 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://www.paraminfotech.com/css/banner.css 404 0 2 1406 620 421
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 12:08:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 12:08:11 W3SVC488 216.104.37.2 GET / - 80 - 178.159.37.56 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.79+Safari/537.36 http://paraminfotech.com/ 200 0 0 26305 309 359
+2019-02-07 12:17:35 W3SVC488 216.104.37.2 GET / - 80 - 199.249.223.73 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 hundejo.com 200 0 0 26286 231 109
+2019-02-07 12:18:03 W3SVC488 216.104.37.2 GET / - 80 - 185.220.102.8 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 burger-tycoon.com 200 0 0 26286 237 218
+2019-02-07 12:18:16 W3SVC488 216.104.37.2 GET / - 80 - 171.25.193.20 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 pizza-imperia.com 200 0 0 26286 237 390
+2019-02-07 12:19:15 W3SVC488 216.104.37.2 GET / - 80 - 109.70.100.20 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 pizza-tycoon.com 200 0 0 26286 236 218
+2019-02-07 12:19:34 W3SVC488 216.104.37.2 GET / - 80 - 66.70.217.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 pizza-tycoon.com 200 0 0 26286 236 46
+2019-02-07 12:20:04 W3SVC488 216.104.37.2 GET / - 80 - 195.176.3.24 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 pizza-imperia.com 200 0 0 26286 237 218
+2019-02-07 12:22:11 W3SVC488 216.104.37.2 GET / - 80 - 192.160.102.169 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 pizza-imperia.com 200 0 0 26286 237 31
+2019-02-07 12:22:32 W3SVC488 216.104.37.2 GET / - 80 - 109.70.100.21 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 pizza-imperia.com 200 0 0 26286 237 218
+2019-02-07 12:22:58 W3SVC488 216.104.37.2 GET / - 80 - 199.249.230.86 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 hundejo.com 200 0 0 26286 231 62
+2019-02-07 12:23:45 W3SVC488 216.104.37.2 GET / - 80 - 171.25.193.77 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 hundejo.com 200 0 0 26286 231 406
+2019-02-07 12:23:59 W3SVC488 216.104.37.2 GET / - 80 - 109.70.100.24 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 hundejo.com 200 0 0 26286 231 218
+2019-02-07 12:24:09 W3SVC488 216.104.37.2 GET / - 80 - 109.70.100.19 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 burger-tycoon.com 200 0 0 26286 237 234
+2019-02-07 12:25:25 W3SVC488 216.104.37.2 GET / - 80 - 199.249.230.80 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 hundejo.com 200 0 0 26286 231 62
+2019-02-07 12:25:40 W3SVC488 216.104.37.2 GET / - 80 - 109.70.100.19 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 burger-imperia.com 200 0 0 26286 238 218
+2019-02-07 12:26:24 W3SVC488 216.104.37.2 GET / - 80 - 46.119.114.4 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT)+::ELNSB50::000061100320025802a00111000000000507000900000000 http://xn----btbdvdh4aafrfciljm6k.xn--p1ai/ 200 0 64 11680 221 125
+2019-02-07 12:26:25 W3SVC488 216.104.37.2 GET / - 80 - 46.119.114.4 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT)+::ELNSB50::000061100320025802a00111000000000507000900000000 http://xn----btbdvdh4aafrfciljm6k.xn--p1ai/ 200 0 64 11680 221 140
+2019-02-07 12:26:26 W3SVC488 216.104.37.2 GET / - 80 - 46.119.114.4 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT)+::ELNSB50::000061100320025802a00111000000000507000900000000 http://xn----btbdvdh4aafrfciljm6k.xn--p1ai/ 200 0 64 8760 221 125
+2019-02-07 12:27:04 W3SVC488 216.104.37.2 GET / - 80 - 23.129.64.101 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 hundejo.com 200 0 0 26286 231 78
+2019-02-07 12:33:25 W3SVC488 216.104.37.2 GET / - 80 - 199.249.230.71 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 pizza-imperia.com 200 0 0 26286 237 62
+2019-02-07 12:33:28 W3SVC488 216.104.37.2 GET / - 80 - 209.141.45.212 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 burger-imperia.com 200 0 0 26286 238 125
+2019-02-07 12:37:46 W3SVC488 216.104.37.2 GET / - 80 - 178.175.148.227 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 burger-tycoon.com 200 0 0 26286 237 265
+2019-02-07 12:45:00 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 188.68.3.122 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://paraminfotech.com/ 200 0 0 654 6092 1703
+2019-02-07 12:52:09 W3SVC488 216.104.37.2 GET / - 80 - 104.236.118.204 Mozilla/5.0+(X11;+Datanyze;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://www.paraminfotech.com 200 0 0 26286 419 46
+2019-02-07 12:52:11 W3SVC488 216.104.37.2 GET /js/jquery.nivo.slider.pack.js - 80 - 104.236.118.204 Mozilla/5.0+(X11;+Datanyze;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 16140 229 109
+2019-02-07 12:52:11 W3SVC488 216.104.37.2 GET /css/css.css - 80 - 104.236.118.204 Mozilla/5.0+(X11;+Datanyze;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 18840 211 171
+2019-02-07 12:52:11 W3SVC488 216.104.37.2 GET /js/jquery-1.4.3.min.js - 80 - 104.236.118.204 Mozilla/5.0+(X11;+Datanyze;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 78009 222 171
+2019-02-07 12:52:11 W3SVC488 216.104.37.2 GET /css/menu.css - 80 - 104.236.118.204 Mozilla/5.0+(X11;+Datanyze;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 3907 212 78
+2019-02-07 12:52:11 W3SVC488 216.104.37.2 GET /css/nivo-slider.css - 80 - 104.236.118.204 Mozilla/5.0+(X11;+Datanyze;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 1794 219 78
+2019-02-07 12:52:11 W3SVC488 216.104.37.2 GET /css/banner.css - 80 - 104.236.118.204 Mozilla/5.0+(X11;+Datanyze;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 1574 214 109
+2019-02-07 12:52:21 W3SVC488 216.104.37.2 GET /robots.txt - 80 - 104.236.118.204 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/34.0.1847.131+Safari/537.36 - 404 0 2 1406 420 31
+2019-02-07 12:52:44 W3SVC488 216.104.37.2 GET /contactus.html - 80 - 104.236.118.204 Mozilla/5.0+(X11;+Datanyze;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://www.paraminfotech.com 200 0 0 11216 433 140
+2019-02-07 12:52:44 W3SVC488 216.104.37.2 GET /index.html - 80 - 104.236.118.204 Mozilla/5.0+(X11;+Datanyze;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://www.paraminfotech.com 200 0 0 26286 429 31
+2019-02-07 12:52:45 W3SVC488 216.104.37.2 GET /aboutus.html - 80 - 104.236.118.204 Mozilla/5.0+(X11;+Datanyze;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://www.paraminfotech.com 200 0 0 11299 431 93
+2019-02-07 12:52:45 W3SVC488 216.104.37.2 GET /hotelsw.html - 80 - 104.236.118.204 Mozilla/5.0+(X11;+Datanyze;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://www.paraminfotech.com 200 0 0 16712 431 125
+2019-02-07 12:52:46 W3SVC488 216.104.37.2 GET /restaurantsw.html - 80 - 104.236.118.204 Mozilla/5.0+(X11;+Datanyze;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://www.paraminfotech.com 200 0 0 14831 436 140
+2019-02-07 12:52:46 W3SVC488 216.104.37.2 GET /corporatecanteen.html - 80 - 104.236.118.204 Mozilla/5.0+(X11;+Datanyze;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://www.paraminfotech.com 200 0 0 13308 440 93
+2019-02-07 12:52:46 W3SVC488 216.104.37.2 GET /franchise.html - 80 - 104.236.118.204 Mozilla/5.0+(X11;+Datanyze;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://www.paraminfotech.com 200 0 0 12220 433 156
+2019-02-07 12:53:04 W3SVC488 216.104.37.2 GET / - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) - 200 0 0 26286 227 62
+2019-02-07 12:53:04 W3SVC488 216.104.37.2 GET /css/css.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 18840 299 46
+2019-02-07 12:53:05 W3SVC488 216.104.37.2 GET /css/menu.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 3907 300 46
+2019-02-07 12:53:05 W3SVC488 216.104.37.2 GET /css/nivo-slider.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 1794 307 31
+2019-02-07 12:53:05 W3SVC488 216.104.37.2 GET /css/banner.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 1574 302 62
+2019-02-07 12:53:05 W3SVC488 216.104.37.2 GET /js/jquery-1.4.3.min.js - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 78009 310 78
+2019-02-07 12:53:05 W3SVC488 216.104.37.2 GET /js/jquery.nivo.slider.pack.js - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 16140 317 93
+2019-02-07 13:03:29 W3SVC488 216.104.37.2 GET /css/menu.css - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 3907 350 234
+2019-02-07 13:03:29 W3SVC488 216.104.37.2 GET / - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 https://www.google.com/ 200 0 0 26286 429 750
+2019-02-07 13:03:29 W3SVC488 216.104.37.2 GET /css/banner.css - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 1574 352 218
+2019-02-07 13:03:29 W3SVC488 216.104.37.2 GET /js/jquery.nivo.slider.pack.js - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 16140 352 218
+2019-02-07 13:03:29 W3SVC488 216.104.37.2 GET /css/css.css - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 18840 349 468
+2019-02-07 13:03:29 W3SVC488 216.104.37.2 GET /css/nivo-slider.css - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 1794 357 250
+2019-02-07 13:03:29 W3SVC488 216.104.37.2 GET /images/logo.png - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 3976 374 265
+2019-02-07 13:03:29 W3SVC488 216.104.37.2 GET /images/line_navigation.png - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 404 385 250
+2019-02-07 13:03:30 W3SVC488 216.104.37.2 GET /images/rea_mor.jpg - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 2721 377 234
+2019-02-07 13:03:30 W3SVC488 216.104.37.2 GET /images/icon_facebook.png - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 3469 383 250
+2019-02-07 13:03:30 W3SVC488 216.104.37.2 GET /images/ban_hot.jpg - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 47951 377 750
+2019-02-07 13:03:30 W3SVC488 216.104.37.2 GET /images/ban_int.jpg - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 34418 377 765
+2019-02-07 13:03:30 W3SVC488 216.104.37.2 GET /js/jquery-1.4.3.min.js - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 78009 345 1140
+2019-02-07 13:03:30 W3SVC488 216.104.37.2 GET /images/ban_res.jpg - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 54929 377 984
+2019-02-07 13:03:30 W3SVC488 216.104.37.2 GET /images/icon_twitter.png - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 2233 382 265
+2019-02-07 13:03:30 W3SVC488 216.104.37.2 GET /images/ban_can.jpg - 80 - 27.6.47.249 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.96+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 78956 377 921
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 13:18:59
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 13:18:58 W3SVC488 216.104.37.2 GET /robots.txt - 80 - 46.229.168.147 Mozilla/5.0+(compatible;+SemrushBot/3~bl;++http://www.semrush.com/bot.html) - 404 0 2 1425 209 31
+2019-02-07 13:18:58 W3SVC488 216.104.37.2 GET /restaurantsw.html - 80 - 46.229.168.151 Mozilla/5.0+(compatible;+SemrushBot/3~bl;++http://www.semrush.com/bot.html) - 200 0 0 14850 222 62
+2019-02-07 13:22:08 W3SVC488 216.104.37.2 GET /favicon.ico - 80 - 66.249.69.93 Googlebot-Image/1.0 - 404 0 2 1406 196 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 13:38:50
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 13:38:49 W3SVC488 216.104.37.2 GET / - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) - 200 0 0 26286 227 62
+2019-02-07 13:38:50 W3SVC488 216.104.37.2 GET /css/css.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 18840 299 62
+2019-02-07 13:38:50 W3SVC488 216.104.37.2 GET /css/menu.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 3907 300 46
+2019-02-07 13:38:50 W3SVC488 216.104.37.2 GET /css/banner.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 1574 302 46
+2019-02-07 13:38:50 W3SVC488 216.104.37.2 GET /css/nivo-slider.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 1794 307 62
+2019-02-07 13:38:51 W3SVC488 216.104.37.2 GET /js/jquery.nivo.slider.pack.js - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 16140 317 109
+2019-02-07 13:38:51 W3SVC488 216.104.37.2 GET /js/jquery-1.4.3.min.js - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 78009 310 406
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 13:58:31
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 13:58:31 W3SVC488 216.104.37.2 HEAD / - 80 - 34.192.199.16 - - 200 0 0 250 61 46
+2019-02-07 13:58:31 W3SVC488 216.104.37.2 GET / - 80 - 34.192.199.16 Googlebot/2.1+(http://www.googlebot.com/bot.html) http://www.google.com 200 0 0 26286 155 62
+2019-02-07 13:58:32 W3SVC488 216.104.37.2 GET / - 80 - 34.192.199.16 Googlebot/2.1+(http://www.googlebot.com/bot.html) http://www.google.com 200 0 0 26286 155 62
+2019-02-07 13:58:32 W3SVC488 216.104.37.2 GET / - 80 - 34.192.199.16 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/A.B+(KHTML,+like+Gecko)+Chrome/X.Y.Z.W+Safari/A.B. - 200 0 0 26305 190 156
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 14:18:01
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 14:18:01 W3SVC488 216.104.37.2 GET / - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.0;+Trident/5.0;++Trident/5.0) - 200 0 0 26286 227 156
+2019-02-07 14:18:01 W3SVC488 216.104.37.2 GET /css/css.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.0;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 18840 299 46
+2019-02-07 14:18:01 W3SVC488 216.104.37.2 GET /css/nivo-slider.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.0;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 1794 307 93
+2019-02-07 14:18:01 W3SVC488 216.104.37.2 GET /css/menu.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.0;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 3907 300 234
+2019-02-07 14:18:01 W3SVC488 216.104.37.2 GET /css/banner.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.0;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 1574 302 125
+2019-02-07 14:18:02 W3SVC488 216.104.37.2 GET /js/jquery-1.4.3.min.js - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.0;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 78009 310 203
+2019-02-07 14:18:02 W3SVC488 216.104.37.2 GET /js/jquery.nivo.slider.pack.js - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.0;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 16140 317 93
+2019-02-07 14:30:35 W3SVC488 216.104.37.2 GET / - 80 - 62.102.148.68 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:46.0)+Gecko/20100101+Firefox/46.0 - 200 0 0 26286 360 234
+2019-02-07 14:30:37 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 62.102.148.68 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:46.0)+Gecko/20100101+Firefox/46.0 http://paraminfotech.com/ 200 0 0 637 585 1484
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 15:02:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 15:02:32 W3SVC488 216.104.37.2 GET / - 80 - 87.118.112.63 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:50.0)+Gecko/20100101+Firefox/50.0 - 200 0 0 26286 360 1547
+2019-02-07 15:02:38 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 185.220.101.6 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:50.0)+Gecko/20100101+Firefox/50.0 http://paraminfotech.com/ 200 0 0 635 585 703
+2019-02-07 15:04:11 W3SVC488 216.104.37.2 GET / - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) - 200 0 0 26286 227 62
+2019-02-07 15:04:12 W3SVC488 216.104.37.2 GET /css/css.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 18840 299 46
+2019-02-07 15:04:12 W3SVC488 216.104.37.2 GET /css/nivo-slider.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 1794 307 62
+2019-02-07 15:04:13 W3SVC488 216.104.37.2 GET /css/menu.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 3907 300 234
+2019-02-07 15:04:13 W3SVC488 216.104.37.2 GET /css/banner.css - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 1574 302 78
+2019-02-07 15:04:13 W3SVC488 216.104.37.2 GET /js/jquery-1.4.3.min.js - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 78009 310 312
+2019-02-07 15:04:13 W3SVC488 216.104.37.2 GET /js/jquery.nivo.slider.pack.js - 80 - 23.101.169.3 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://paraminfotech.com/ 200 0 0 16140 317 78
+2019-02-07 15:13:26 W3SVC488 216.104.37.2 GET / - 80 - 46.119.117.169 Mozilla/3.0+(compatible;+WebCapture+2.0;+Auto;+Windows) https://franshiza.shtaketniki.ru/ 200 0 64 8760 160 140
+2019-02-07 15:13:26 W3SVC488 216.104.37.2 GET / - 80 - 46.119.117.169 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+TheFreeDictionary.com;+.NET+CLR+1.1.4322;+.NET+CLR+1.0.3705;+.NET+CLR+2.0.50727) https://komp-pomosch.ru/ 200 0 64 8760 227 140
+2019-02-07 15:13:26 W3SVC488 216.104.37.2 GET / - 80 - 46.119.117.169 Mozilla/3.0+(compatible;+WebCapture+2.0;+Auto;+Windows) https://franshiza.shtaketniki.ru/ 200 0 64 11680 160 156
+2019-02-07 15:13:26 W3SVC488 216.104.37.2 GET / - 80 - 46.119.117.169 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+TheFreeDictionary.com;+.NET+CLR+1.1.4322;+.NET+CLR+1.0.3705;+.NET+CLR+2.0.50727) https://komp-pomosch.ru/ 200 0 64 8760 227 156
+2019-02-07 15:13:27 W3SVC488 216.104.37.2 GET / - 80 - 46.119.117.169 Mozilla/3.0+(compatible;+WebCapture+2.0;+Auto;+Windows) https://franshiza.shtaketniki.ru/ 200 0 64 8760 160 156
+2019-02-07 15:13:27 W3SVC488 216.104.37.2 GET / - 80 - 46.119.117.169 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+TheFreeDictionary.com;+.NET+CLR+1.1.4322;+.NET+CLR+1.0.3705;+.NET+CLR+2.0.50727) https://komp-pomosch.ru/ 200 0 64 8760 227 156
+2019-02-07 15:26:47 W3SVC488 216.104.37.2 GET / - 80 - 109.248.149.43 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.87+Safari/537.36+OPR/54.0.2952.71 http://paraminfotech.com/ 200 0 0 26305 327 1296
+2019-02-07 15:26:50 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 109.248.149.43 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.87+Safari/537.36+OPR/54.0.2952.71 http://paraminfotech.com/ 200 0 0 654 581 2609
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 15:45:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 15:45:11 W3SVC488 216.104.37.2 GET / - 80 - 185.220.101.15 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 200 0 0 26286 396 250
+2019-02-07 15:45:13 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 185.220.101.15 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 http://paraminfotech.com/ 200 0 0 635 612 1281
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 16:19:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 16:19:34 W3SVC488 216.104.37.2 GET / - 80 - 167.114.108.152 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.89+Safari/537.36 burger-tycoon.com 200 0 0 26286 237 62
+2019-02-07 16:28:46 W3SVC488 216.104.37.2 GET / - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 https://www.google.com/ 200 0 0 26286 460 1015
+2019-02-07 16:28:46 W3SVC488 216.104.37.2 GET /css/menu.css - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 3907 381 421
+2019-02-07 16:28:46 W3SVC488 216.104.37.2 GET /css/nivo-slider.css - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 1794 388 343
+2019-02-07 16:28:46 W3SVC488 216.104.37.2 GET /css/banner.css - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 1574 383 359
+2019-02-07 16:28:47 W3SVC488 216.104.37.2 GET /css/css.css - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 18840 380 906
+2019-02-07 16:28:47 W3SVC488 216.104.37.2 GET /images/logo.png - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 3976 405 500
+2019-02-07 16:28:47 W3SVC488 216.104.37.2 GET /images/line_navigation.png - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 404 416 406
+2019-02-07 16:28:47 W3SVC488 216.104.37.2 GET /js/jquery.nivo.slider.pack.js - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 16140 383 906
+2019-02-07 16:28:47 W3SVC488 216.104.37.2 GET /images/ban_int.jpg - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 34418 408 578
+2019-02-07 16:28:48 W3SVC488 216.104.37.2 GET /js/jquery-1.4.3.min.js - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 78009 376 1718
+2019-02-07 16:28:48 W3SVC488 216.104.37.2 GET /images/ban_res.jpg - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 54929 408 843
+2019-02-07 16:28:48 W3SVC488 216.104.37.2 GET /images/rea_mor.jpg - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 2721 408 500
+2019-02-07 16:28:48 W3SVC488 216.104.37.2 GET /images/ban_hot.jpg - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 47951 408 1672
+2019-02-07 16:28:49 W3SVC488 216.104.37.2 GET /images/ban_can.jpg - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 78956 408 1078
+2019-02-07 16:28:49 W3SVC488 216.104.37.2 GET /images/icon_twitter.png - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 2233 413 1093
+2019-02-07 16:28:49 W3SVC488 216.104.37.2 GET /images/icon_facebook.png - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 200 0 0 3469 414 1093
+2019-02-07 16:28:49 W3SVC488 216.104.37.2 GET /images/bg_mid_content.jpg - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 663 426 890
+2019-02-07 16:28:49 W3SVC488 216.104.37.2 GET /images/bg_fotter.jpg - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 609 421 656
+2019-02-07 16:28:49 W3SVC488 216.104.37.2 GET /images/bg_top.jpg - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 1241 418 671
+2019-02-07 16:28:49 W3SVC488 216.104.37.2 GET /images/box_top.jpg - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 3775 419 343
+2019-02-07 16:28:49 W3SVC488 216.104.37.2 GET /images/box_bot.jpg - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 1262 419 343
+2019-02-07 16:28:49 W3SVC488 216.104.37.2 GET /images/quick_contact.jpg - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 4923 425 390
+2019-02-07 16:28:49 W3SVC488 216.104.37.2 GET /images/bottom_contact.jpg - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/css/css.css 200 0 0 1363 426 343
+2019-02-07 16:28:50 W3SVC488 216.104.37.2 GET /css/images/arrows.png - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/css/banner.css 404 0 2 1406 657 484
+2019-02-07 16:28:50 W3SVC488 216.104.37.2 GET /favicon.ico - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/ 404 0 2 1406 633 484
+2019-02-07 16:28:50 W3SVC488 216.104.37.2 GET /images/bullets.png - 80 - 157.32.244.40 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-C900F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Mobile+Safari/537.36 http://www.paraminfotech.com/css/banner.css 200 0 0 1051 654 484
+2019-02-07 16:31:27 W3SVC488 216.104.37.2 GET / - 80 - 51.15.119.191 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.140+Safari/537.36+Edge/17.17134 - 200 0 0 26286 417 218
+2019-02-07 16:31:30 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 51.15.119.191 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.140+Safari/537.36+Edge/17.17134 http://paraminfotech.com/ 200 0 0 636 648 2203
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 17:02:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 17:02:29 W3SVC488 216.104.37.2 GET / - 80 - 5.228.160.98 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36+Kinza/4.9.1 http://paraminfotech.com/ 200 0 0 26305 310 406
+2019-02-07 17:15:19 W3SVC488 216.104.37.2 GET / - 80 - 77.48.92.113 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.87+Safari/537.36+OPR/54.0.2952.64+(Edition+Yx) http://paraminfotech.com/ 200 0 0 26305 334 312
+2019-02-07 17:19:38 W3SVC488 216.104.37.2 GET / - 80 - 128.199.38.115 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.78+Safari/537.36+OPR/47.0.2631.39 - 200 0 0 26286 419 187
+2019-02-07 17:19:42 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 128.199.38.115 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.78+Safari/537.36+OPR/47.0.2631.39 http://paraminfotech.com/ 200 0 0 636 636 2609
+2019-02-07 17:22:03 W3SVC488 216.104.37.2 GET / - 80 - 185.220.101.34 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 200 0 0 26286 396 187
+2019-02-07 17:22:06 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 185.220.101.34 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 http://paraminfotech.com/ 200 0 0 636 616 2093
+2019-02-07 17:32:08 W3SVC488 216.104.37.2 GET / - 80 - 176.31.208.193 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.79+Safari/537.36 - 200 0 0 26286 402 171
+2019-02-07 17:32:11 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 176.31.208.193 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.79+Safari/537.36 http://paraminfotech.com/ 200 0 0 636 625 2140
+2019-02-07 17:37:36 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 84.54.58.138 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://paraminfotech.com/ 200 0 0 655 6736 1125
+2019-02-07 17:48:19 W3SVC488 216.104.37.2 GET / - 80 - 199.249.230.86 Mozilla/5.0+(Windows+NT+6.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 0 0 26286 402 62
+2019-02-07 17:48:21 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 199.249.230.86 Mozilla/5.0+(Windows+NT+6.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://paraminfotech.com/ 200 0 0 635 622 515
+2019-02-07 17:57:03 W3SVC488 216.104.37.2 GET /index.html - 80 - 220.181.108.109 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 304 0 0 185 325 234
+2019-02-07 18:09:47 W3SVC488 216.104.37.2 GET / - 80 - 185.220.101.34 Mozilla/5.0+(Windows+NT+5.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 0 0 26286 402 343
+2019-02-07 18:09:50 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 185.220.101.70 Mozilla/5.0+(Windows+NT+5.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://paraminfotech.com/ 200 0 0 637 615 1484
+2019-02-07 18:14:17 W3SVC488 216.104.37.2 GET / - 80 - 46.119.117.169 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 https://s-forum.biz/ 200 0 64 14600 138 140
+2019-02-07 18:14:17 W3SVC488 216.104.37.2 GET / - 80 - 46.119.117.169 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 https://s-forum.biz/ 200 0 64 5840 138 140
+2019-02-07 18:14:18 W3SVC488 216.104.37.2 GET / - 80 - 46.119.117.169 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 https://s-forum.biz/ 200 0 64 14600 138 156
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 18:40:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 18:40:22 W3SVC488 216.104.37.2 GET / - 80 - 195.176.3.23 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_2)+AppleWebKit/604.4.7+(KHTML,+like+Gecko)+Version/11.0.2+Safari/604.4.7 - 200 0 0 26286 405 265
+2019-02-07 18:40:25 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 195.176.3.23 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_2)+AppleWebKit/604.4.7+(KHTML,+like+Gecko)+Version/11.0.2+Safari/604.4.7 http://paraminfotech.com/ 200 0 0 635 629 1265
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 19:16:52
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 19:16:52 W3SVC488 216.104.37.2 GET / - 80 - 36.110.199.17 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:43.0)+Gecko/20100101+Firefox/43.0 http://www.baidu.com/s?wd=T38E 200 0 0 26286 317 609
+2019-02-07 19:16:52 W3SVC488 216.104.37.2 GET /css/nivo-slider.css - 80 - 36.110.199.17 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:43.0)+Gecko/20100101+Firefox/43.0 http://www.paraminfotech.com/ 200 0 0 1794 290 312
+2019-02-07 19:16:52 W3SVC488 216.104.37.2 GET /css/menu.css - 80 - 36.110.199.25 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:43.0)+Gecko/20100101+Firefox/43.0 http://www.paraminfotech.com/ 200 0 0 3907 283 328
+2019-02-07 19:16:52 W3SVC488 216.104.37.2 GET /css/banner.css - 80 - 36.110.199.23 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:43.0)+Gecko/20100101+Firefox/43.0 http://www.paraminfotech.com/ 200 0 0 1574 285 343
+2019-02-07 19:16:52 W3SVC488 216.104.37.2 GET /css/css.css - 80 - 36.110.199.162 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:43.0)+Gecko/20100101+Firefox/43.0 http://www.paraminfotech.com/ 200 0 0 18840 282 515
+2019-02-07 19:16:52 W3SVC488 216.104.37.2 GET /js/jquery.nivo.slider.pack.js - 80 - 36.110.199.179 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:43.0)+Gecko/20100101+Firefox/43.0 http://www.paraminfotech.com/ 200 0 0 16140 285 546
+2019-02-07 19:16:52 W3SVC488 216.104.37.2 GET /js/jquery-1.4.3.min.js - 80 - 36.110.199.176 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:43.0)+Gecko/20100101+Firefox/43.0 http://www.paraminfotech.com/ 200 0 0 78009 278 750
+2019-02-07 19:27:01 W3SVC488 216.104.37.2 GET / - 80 - 62.102.148.68 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.104+Safari/537.36 - 200 0 0 26286 390 250
+2019-02-07 19:27:05 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 62.102.148.68 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.104+Safari/537.36 http://paraminfotech.com/ 200 0 0 633 613 3031
+2019-02-07 19:36:23 W3SVC488 216.104.37.2 GET / - 80 - 5.8.47.2 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36+OPR/55.0.2994.44 http://paraminfotech.com/ 200 0 0 26305 327 406
+2019-02-07 19:36:24 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 5.8.47.2 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36+OPR/55.0.2994.44 http://paraminfotech.com/ 200 0 0 654 519 1218
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 20:28:49
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 20:28:49 W3SVC488 216.104.37.2 GET / - 80 - 54.37.16.241 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/39.0.2171.95+Safari/537.36 - 200 0 0 26286 389 187
+2019-02-07 20:28:51 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 54.37.16.241 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/39.0.2171.95+Safari/537.36 http://paraminfotech.com/ 200 0 0 635 605 1953
+2019-02-07 20:34:10 W3SVC488 216.104.37.2 GET / - 80 - 104.244.78.163 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.109+Safari/537.36 - 200 0 0 26286 397 203
+2019-02-07 20:34:12 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 104.244.78.163 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.109+Safari/537.36 http://paraminfotech.com/ 200 0 0 636 617 1140
+2019-02-07 20:48:13 W3SVC488 216.104.37.2 GET / - 80 - 185.130.184.197 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://paraminfotech.com/ 200 0 0 26305 311 234
+2019-02-07 20:48:15 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 185.130.184.197 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://paraminfotech.com/ 200 0 0 652 606 1500
+2019-02-07 20:53:10 W3SVC488 216.104.37.2 GET / - 80 - 66.249.64.59 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 26286 424 62
+2019-02-07 21:07:56 W3SVC488 216.104.37.2 GET / - 80 - 178.159.37.17 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36+Edge/16.16299 http://paraminfotech.com/ 200 0 0 26305 325 296
+2019-02-07 21:07:58 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 178.159.37.17 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36+Edge/16.16299 http://paraminfotech.com/ 200 0 0 653 7635 1515
+2019-02-07 21:07:58 W3SVC488 216.104.37.2 GET / - 80 - 178.159.37.17 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36+Edge/16.16299 http://paraminfotech.com/ 200 0 0 26305 325 296
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 21:58:01
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 21:58:00 W3SVC488 216.104.37.2 GET / - 80 - 129.56.78.208 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C;+.NET4.0E) - 200 0 0 26286 354 484
+2019-02-07 22:04:13 W3SVC488 216.104.37.2 GET /robots.txt - 80 - 34.73.81.102 ZoominfoBot+(zoominfobot+at+zoominfo+dot+com) - 404 0 2 1425 366 31
+2019-02-07 22:14:27 W3SVC488 216.104.37.2 GET / - 80 - 111.202.100.133 Sogou+web+spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07) - 304 0 0 185 269 281
+2019-02-07 22:18:39 W3SVC488 216.104.37.2 GET /robots.txt - 80 - 34.73.81.102 ZoominfoBot+(zoominfobot+at+zoominfo+dot+com) - 404 0 2 1425 382 31
+2019-02-07 22:18:39 W3SVC488 216.104.37.2 GET / - 80 - 34.73.81.102 ZoominfoBot+(zoominfobot+at+zoominfo+dot+com) - 200 0 0 26305 372 62
+2019-02-07 22:29:35 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 95.85.71.29 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://paraminfotech.com/ 200 0 0 654 7089 1984
+2019-02-07 22:32:44 W3SVC488 216.104.37.2 GET /robots.txt - 80 - 111.202.100.133 Sogou+web+spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07) - 404 0 2 1425 203 234
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 23:19:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 23:19:35 W3SVC488 216.104.37.2 GET /robots.txt - 80 - 178.255.215.76 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - 404 0 2 1425 272 109
+2019-02-07 23:19:35 W3SVC488 216.104.37.2 GET / - 80 - 178.255.215.76 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - 304 0 0 185 348 93
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-02-07 23:53:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2019-02-07 23:53:34 W3SVC488 216.104.37.2 GET / - 80 - 199.249.230.70 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2486.0+Safari/537.36+Edge/13.10586 - 200 0 0 26286 414 78
+2019-02-07 23:53:37 W3SVC488 216.104.37.2 POST /sendfeedback.php - 80 - 199.249.230.70 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2486.0+Safari/537.36+Edge/13.10586 http://paraminfotech.com/ 200 0 0 634 629 1437
